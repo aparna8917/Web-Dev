@@ -4,7 +4,7 @@ public class HelloWorld {
 
         System.out.println("Hello Java – V2"); 
 
-        System.out.println("Git versioning demo”); 
+        System.out.println("Git versioning demo"); 
 
     } 
 
